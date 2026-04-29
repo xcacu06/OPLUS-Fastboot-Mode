@@ -3,10 +3,11 @@
 
 **1.准备工作**
 需要准备好mtk工具，这里我很推荐刷机匣，他支持骁龙和MTK功能，功能实用广泛 
-我们应该提前准备和adb工具包，里面应该有adb和fastboot的文件和dll才对，不然你输完指令会提示 **fastboot 不是内部或外部命令，也不是可运行的程序或批处理文件。**如果你找不到文件或者在哪下载，那我已经将文件放到了仓库中，下载解压之后，然后在目录路径最后方点一下，然后输入cmd再回车即可，
+我们应该提前准备好adb工具包，里面应该有adb和fastboot的文件和dll才对，不然你输完指令会提示 **fastboot 不是内部或外部命令，也不是可运行的程序或批处理文件。**如果你找不到文件或者在哪下载，那么好，我已经将文件放到了仓库中，下载解压之后，然后在目录路径最后方点一下，然后输入cmd再回车即可，
 <img width="955" height="137" alt="1bde4796-d4a2-46f2-9544-4172ec89b446" src="https://github.com/user-attachments/assets/8153c9e2-abe4-4837-aaaf-f35ecad6ba1f" />
 
 首次使用需要安装Linusb驱动和 刷机驱动 安装完成开始下一步
+
 <img width="1393" height="859" alt="db6fda8b-b579-4f86-8b98-88d8a24de02a" src="https://github.com/user-attachments/assets/f33effc9-64e1-4511-8cbe-7ad761c335a1" />
 **2.找到MTK功能，开始回读与刷写**
 先选择配置，一般来说OPLUS天玑1200系列的可以不用选择，都是默认的da，如果你是高版本未熔断da的版本，端口是preloader的，需要选择对应芯片组的da，关于这些da我在另一个仓库放了https://github.com/xcacu06/MediaTek-DA
