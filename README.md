@@ -1,4 +1,3 @@
-<img width="1297" height="747" alt="image" src="https://github.com/user-attachments/assets/8bbe8f3b-9e8f-4585-95db-7ddbb2aff70c" /># OPLUS-Fastboot-Mode
 为你的Oppo，或者丢失fastboot模式的OnePlus开启bootloader模式，也就是所谓的Fastboot模式，目前不解锁bootloader的情况下最高支持到天玑9000的Oppo-MTKV6的设备，只不过再往上却不行了。有可能在天玑9200更改了新的安全策略，刷入修改好的文件，设备无限启动
 当然，俄罗斯已经有大佬将此原理和修改文件的工具发布了，所以我这发布的就是我之前做好的文件，正确刷入到对应设备对应的分区即可正常使用Fastboot
 
